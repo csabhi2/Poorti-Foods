@@ -1,0 +1,30 @@
+.about{
+  background-color: #dc3545;
+}
+.pfa{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 70px;
+padding-left: 65px;
+padding-top: 50px;
+}
+.fpa{
+  font-family: 'Josefin Sans', sans-serif;
+padding-left: 65px;
+}
+#home{
+  color: white;
+}
+.d-flex{
+  padding-left: 300px;
+}
+nav{
+  padding-left: 65px;
+}
+.navbar-brand{
+font-family: 'Ubuntu', sans-serif;
+padding-left: 15px;
+}
+#spices{
+  background-color: #ffc107 ;
+text-align: center;
+}
